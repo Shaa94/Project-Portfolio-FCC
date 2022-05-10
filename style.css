@@ -1,0 +1,84 @@
+#navbar {
+    border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+  
+}
+
+#navbar ul li {
+  display: inline;
+  padding: 180px 180px;
+}
+
+#navbar a{
+  text-decoration: none;
+}
+
+#welcome-section {
+    border: 2px solid blue;
+    height: 500px;
+    padding-top: 200px;
+}
+
+#welcome-section h1 {
+  text-align: center;
+}
+
+#welcome-section p {
+    text-align: center;
+    padding-top: 5px;
+}
+
+#projects {
+    border: 2px solid green;
+    height: 500px;
+}
+
+#titre {
+  text-align: center;
+}
+
+#contact {
+border: 2px solid yellow;
+text-align: center;
+height: 250px;
+}
+
+#contact p {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.fa-github {
+    font-size: 30px;
+    color: black;
+    padding-right: 20px;
+    
+}
+
+.fa-twitter {
+    font-size: 30px;
+    color: black;
+    padding-right: 20px;
+}
+
+.fa-linkedin-in {
+    font-size: 30px;
+    color: black;
+    padding-right: 20px;
+}
+
+.fa-reddit-alien {
+    font-size: 30px;
+    color: black;
+}
+
+
+#footer{
+    height: 50px;
+    border: 2px solid purple;
+    color: black;
+    text-align: center;
+
+}
